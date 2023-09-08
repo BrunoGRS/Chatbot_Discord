@@ -53,4 +53,4 @@ async def join_user(ctx):
 
     await channel.send(mensagem)
 
-bot.run("MTE0OTM3NzE5NzE0MDg4NTYwNQ.GEN6De._Z37vKKptbokVmX-ucBwL9EdK89t48Txkv6sds")
+bot.run("")
