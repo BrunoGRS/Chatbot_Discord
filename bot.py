@@ -16,5 +16,6 @@ def load_cogs(bot):
             
 load_cogs(bot=bot)
 
+
 TOKEN = config("TOKEN")
 bot.run(TOKEN)
